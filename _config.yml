@@ -1,16 +1,16 @@
-layout_spectrum: 0.9236603206954896
-typography_spectrum: 0.7936817256268114
+layout_spectrum: 0.14594481443054974
+typography_spectrum: 0.8975877352058887
 color:
-  brandStrength: 0.13601110805757344
-  lightness: 0.3269689856097102
-  saturation: 0.22235478647053242
-  rhythmicContrast: 0.07982147391885519
+  brandStrength: 0.24750909954309464
+  lightness: 0.4211391778662801
+  saturation: 0.9936565936077386
+  rhythmicContrast: 0.6676177270710468
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: andreas-punter
 author:
   name: Andreas Punter
